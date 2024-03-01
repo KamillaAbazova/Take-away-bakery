@@ -6,6 +6,7 @@ import { useDispatch } from "react-redux";
 export const Dish = ({dish}) => {
     const [quantity, setQuantity] = useState(1);
     const dispatch = useDispatch();
+    
     return(
         <div>
             <img src={`${dish.img}.jpeg`} alt="dish"/>

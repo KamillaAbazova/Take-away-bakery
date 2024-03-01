@@ -17,6 +17,7 @@
 }
 img {
   width: 500px;
+  margin-top: 40px;
 }
 .cont-categories {
   display: flex;
@@ -82,9 +83,6 @@ h3 {
 p {
   font-size: 20px;
 }
-img {
-  margin-top: 40px;
-}
 .cartText {
   color: white;
 }
@@ -94,6 +92,13 @@ img {
 .head {
   font-size: 28px;
   color: rgb(217,218,212);
+}
+.field {
+  width: 300px;
+  background-color: transparent;
+  border: 1px solid #7D0A0A;
+  padding: 10px;
+  color: rgb(101,79,68);
 }
 
 @media all and (max-width: 900px) {
@@ -106,6 +111,7 @@ img {
   .categoryButton {
     font-size: 15px;
   }
+ 
 }
 
 @media all and (max-width: 500px) {

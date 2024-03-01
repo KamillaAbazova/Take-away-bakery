@@ -11,7 +11,7 @@ export const Cart = () => {
            <img className="cartIcon" src="https://cdn-icons-png.flaticon.com/128/3144/3144456.png" alt="icon"/>
            <h2 className="total">TOTAL: € {totalPrice}</h2>
            <hr/>
-           {cartItems.map(cartItem => <CartItem cartItem={cartItem}/>)}
+           {cartItems.map(cartItem => <CartItem key={cartItem.id} cartItem={cartItem}/>)}
         </div>
     )
 }
