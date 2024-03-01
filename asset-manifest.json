@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Take-away-bakery/static/css/main.1e925ced.css",
-    "main.js": "/Take-away-bakery/static/js/main.f652d4ed.js",
+    "main.css": "/Take-away-bakery/static/css/main.6b229eac.css",
+    "main.js": "/Take-away-bakery/static/js/main.84138f0b.js",
     "static/js/453.b3a00dc4.chunk.js": "/Take-away-bakery/static/js/453.b3a00dc4.chunk.js",
     "index.html": "/Take-away-bakery/index.html",
-    "main.1e925ced.css.map": "/Take-away-bakery/static/css/main.1e925ced.css.map",
-    "main.f652d4ed.js.map": "/Take-away-bakery/static/js/main.f652d4ed.js.map",
+    "main.6b229eac.css.map": "/Take-away-bakery/static/css/main.6b229eac.css.map",
+    "main.84138f0b.js.map": "/Take-away-bakery/static/js/main.84138f0b.js.map",
     "453.b3a00dc4.chunk.js.map": "/Take-away-bakery/static/js/453.b3a00dc4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e925ced.css",
-    "static/js/main.f652d4ed.js"
+    "static/css/main.6b229eac.css",
+    "static/js/main.84138f0b.js"
   ]
 }
